@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mnuMedia"
+        android:title="Calcular Média" />
+    <item
+        android:id="@+id/mnuFechar"
+        android:title="Fechar o App" />
+</menu>
